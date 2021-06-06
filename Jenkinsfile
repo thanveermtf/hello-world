@@ -10,5 +10,5 @@ pipeline {
                 sh 'mav --version'
         }
     }
-        }
+        
     }
